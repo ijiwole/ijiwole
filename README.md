@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ijiwole
-- 👀 I’m interested in Data Science
-- 🌱 I’m proficient using python,SQL,Tableau
+- 👀 I’m interested in Backend Development 
+- 🌱 I’m proficient using JavaScript, Node.js.
 - 💞️ I’m looking to collaborate with Projects
 - 📫 How to reach me 08111017182 or enter DM
 -    I am also a Business Analyst where i make you understand business needs and recommend relevant solutions for stakeholders
