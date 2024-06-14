@@ -1,14 +1,39 @@
-- 👋 Hi, I’m @ijiwole
-- 👀 I’m interested in Backend Development 
-- 🌱 I’m proficient using JavaScript, Node.js.
-- 💞️ I’m looking to collaborate with Projects
-- 📫 How to reach me 08111017182 or enter DM
--    I am also a Business Analyst where i make you understand business needs and recommend relevant solutions for stakeholders
--    I have done courses and get certified on Linkedln learning. 
--    I am proficient in using Business Analysis tools like: PowerBI, Excel, Bizagi, Jira, HUbspot and many more.
--    Thanks.
+# 👋 Hi, I’m @ijiwole
 
-<!---
-ijiwole/ijiwole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm passionate about **Backend Development** and bring a strong proficiency in **JavaScript** and **Node.js**. Alongside my technical skills, I excel as a **Business Analyst**, where I help you understand business needs and recommend relevant solutions for stakeholders.
+
+## Skills
+- **Backend Development**:
+  - JavaScript
+  - Typescript
+  - Node.js
+  - ExpressJs
+  - NestJs
+- **Business Analysis**:
+  - PowerBI
+  - Excel
+  - Bizagi
+  - Jira
+  - HubSpot
+- **Certifications**:
+  - Completed courses and certifications on LinkedIn Learning
+
+## Interests
+I'm always looking to collaborate on exciting projects and contribute to the development community. If you have an interesting project, feel free to reach out!
+
+## Contact Me
+- Whatsaap: +234 811 101 7182
+- Email: adedamolaijiwole@gmail.com
+- Direct Message: [@ijiwole](https://github.com/ijiwole)
+
+## Let's Connect
+- 📫 How to reach me: DM me on GitHub or call the number above.
+- 💼 Business Analyst Tools: I am proficient with PowerBI, Excel, Bizagi, Jira, HubSpot, and many more.
+
+## More About Me
+I blend technical expertise with business acumen, ensuring that the solutions I recommend are not only technically sound but also aligned with business objectives.
+
+---
+
+Thank you for visiting my profile! Feel free to connect with me for any collaboration or project discussion.
