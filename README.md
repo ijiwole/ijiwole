@@ -11,7 +11,7 @@ I'm passionate about **Backend Development** and bring a strong proficiency in *
   - ExpressJs
   - NestJs
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ijiwole)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ijiwole&theme=git-dark)](https://git.io/streak-stats)
 
 ## Interests
 I'm always looking to collaborate on exciting projects and contribute to the development community. If you have an interesting project, feel free to reach out!
