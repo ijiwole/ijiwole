@@ -6,7 +6,7 @@
       <h2>About Me</h2>
       <ul>
         <li>Passionate about <strong>Backend Development</strong></li>
-        <li>Proficient in <strong>JavaScript</strong>, <strong>Typescript</strong> and <strong>Node.js</strong></li>
+        <li>Proficient in <strong>JavaScript,</strong> <strong>Typescript</strong> and <strong>Node.js</strong></li>
         <li>Experienced in <strong>API Development</strong> and <strong>Microservices Architecture</strong></li>
         <li>Skilled in <strong>Database Design</strong> and <strong>Management</strong></li>
         <li>Knowledgeable in <strong>Server-Side Security</strong> and <strong>Performance Optimization</strong></li>
