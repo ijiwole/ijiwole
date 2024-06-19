@@ -35,7 +35,7 @@ I'm always looking to collaborate on exciting projects and contribute to the dev
 ## Contact Me
 - WhatsApp: +234 811 101 7182
 - Email: adedamolaijiwole@gmail.com
-- Direct Message: [@ijiwole](https://github.com/ijiwole)
+- Linkedln: [Linkedln](https://www.linkedin.com/in/adedamola-ijiwole-960a05199) 
 
 ---
 
