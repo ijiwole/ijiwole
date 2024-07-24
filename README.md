@@ -27,8 +27,6 @@
   - Express.js
   - Nest.js
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ijiwole&theme=git-dark)](https://git.io/streak-stats)
-
 ## Interests
 I'm always looking to collaborate on exciting projects and contribute to the development community. If you have an interesting project, feel free to reach out!
 
