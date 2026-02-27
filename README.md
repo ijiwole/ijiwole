@@ -13,9 +13,6 @@
         <li>Excel as a <strong>Business Analyst</strong>, understanding business needs and recommending solutions</li>
       </ul>
     </td>
-    <td style="text-align: center; padding: 10px; width: 50%;">
-      <img src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="Welcome GIF" width="320" height="200"/>
-    </td>
   </tr>
 </table>
 
