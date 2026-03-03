@@ -1,46 +1,82 @@
-<h1 align="center">👋 Hi, I’m Adedamola IJIWOLE</h1>
+<h1 align="center">👋 Hi, I'm Adedamola Ijiwole</h1>
+<h3 align="center">Backend Engineer • Systems Architect • Product Thinker</h3>
 
-<table>
-  <tr>
-    <td style="padding: 10px; width: 50%;">
-      <h2>About Me</h2>
-      <ul>
-        <li>Passionate about <strong>Backend Development</strong></li>
-        <li>Proficient in <strong>JavaScript, TypeScript,</strong> and <strong>Node.js</strong></li>
-        <li>Experienced in <strong>API Development</strong> and <strong>Microservices Architecture</strong></li>
-        <li>Skilled in <strong>Database Design</strong> and <strong>Management</strong></li>
-        <li>Knowledgeable in <strong>Server-Side Security</strong> and <strong>Performance Optimization</strong></li>
-        <li>Excel as a <strong>Business Analyst</strong>, understanding business needs and recommending solutions</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## Skills
-### Backend Development:
-- **Languages**: JavaScript, TypeScript
-- **Frameworks**: Node.js, Express.js, Nest.js
-- **API Development**: RESTful, GraphQL, WebSocket
-- **Microservices Architecture**: Designing, Deploying, and Managing Microservices
-- **Cloud Services**: 
-  - AWS Serverless (Lambda, API Gateway, DynamoDB, S3)
-  - Azure DevOps (CI/CD Pipelines, Monitoring, Resource Management)
-  - GCP (Google Cloud Functions, Pub/Sub)
-- **Containerization**: Docker, Kubernetes
-- **Databases**: PostgreSQL, MySQL, MongoDB, Firebase, Firestore, Redis
-- **Message Brokers**: RabbitMQ, Kafka
-- **Authentication**: JWT, OAuth, Firebase Authentication
-- **Performance Optimization**: Load balancing, Caching (Redis), Database Indexing
-- **Server-Side Security**: HTTPS, CORS, Rate Limiting, Input Validation
-
-## Interests
-I'm always looking to collaborate on exciting projects, explore new technologies, and contribute to the development community. If you have an interesting project, feel free to reach out!
-
-## Contact Me
-- WhatsApp: +234 811 101 7182
-- Email: adedamolaijiwole@gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adedamola-ijiwole-960a05199) 
+<p align="center">
+  I design and build scalable systems, high-performance APIs, and full-stack applications 
+  that solve real business problems.
+</p>
 
 ---
 
-Thank you for visiting my profile! Feel free to connect with me for any collaboration or project discussion.
+## 🚀 About Me
+
+- 🧠 Backend Engineer with 4+ years building scalable systems
+- ⚙️ Strong in **Distributed Systems & Microservices Architecture**
+- 🏗️ Experienced in **System Design & Cloud Infrastructure**
+- 🔐 Focused on **Security, Performance & Reliability**
+- 🎯 Product-minded engineer who understands business needs
+- 🌍 Founder building impactful solutions (VirtuCare 🚑)
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧩 Backend Engineering
+- **Languages:** JavaScript, TypeScript
+- **Frameworks:** Node.js, Express.js, NestJS
+- **Architecture:** Microservices, Monorepo, Event-Driven Systems
+- **API Development:** REST, GraphQL, WebSockets
+- **Authentication:** JWT, OAuth, Firebase Auth
+- **Caching & Performance:** Redis, Load Balancing, DB Indexing
+- **Security:** HTTPS, CORS, Rate Limiting, Input Validation
+
+---
+
+### 🎨 Frontend Engineering
+- **Frameworks:** Next.js, React.js
+- **State Management:** Context API, Zustand, Redux
+- **Styling:** TailwindCSS, Component-driven design
+- **Architecture:** Monorepo setups, Role-based dashboards, Monolithic design.
+- **Focus:** Clean UI, performance optimization, scalable frontend architecture
+
+---
+
+### ☁️ Cloud & DevOps
+- **AWS:** Lambda, API Gateway, DynamoDB, S3
+- **GCP:** Cloud Functions, Pub/Sub
+- **Azure DevOps:** CI/CD Pipelines
+- **Containerization:** Docker, Kubernetes
+- **Deployment:** Vercel, Render
+- **Monitoring & Logging:** Structured logging, Observability patterns, Promethus & Grafana
+
+---
+
+### 🗄️ Databases & Messaging
+- **SQL:** PostgreSQL, MySQL
+- **NoSQL:** MongoDB, Firestore
+- **Caching:** Redis
+- **Message Brokers:** RabbitMQ, Kafka
+
+---
+
+## 🧠 What I Care About
+
+- Designing systems that scale
+- Writing clean, maintainable code
+- Building production-ready architectures
+- Bridging business goals with technical execution
+- Creating products that make real impact
+
+---
+
+## 📫 Let’s Connect
+
+- 📱 WhatsApp: +234 811 101 7182  
+- 📧 Email: adedamolaijiwole@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/adedamola-ijiwole-960a05199  
+
+---
+
+<p align="center">
+  ⚡ “Great systems aren’t just built — they’re architected.”
+</p>
