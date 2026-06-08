@@ -22,9 +22,9 @@
 ## 🛠️ Tech Stack
 
 ### 🧩 Backend Engineering
-- **Languages:** JavaScript, TypeScript
+- **Languages:** JavaScript, TypeScript, Golang, C#
 - **Frameworks:** Node.js, Express.js, NestJS
-- **Architecture:** Microservices, Monorepo, Event-Driven Systems
+- **Architecture:** Microservices, Monorepo, Modular Monolith, Event-Driven Systems
 - **API Development:** REST, GraphQL, WebSockets
 - **Authentication:** JWT, OAuth, Firebase Auth
 - **Caching & Performance:** Redis, Load Balancing, DB Indexing
@@ -46,7 +46,7 @@
 - **GCP:** Cloud Functions, Pub/Sub
 - **Azure DevOps:** CI/CD Pipelines
 - **Containerization:** Docker, Kubernetes
-- **Deployment:** Vercel, Render
+- **Deployment:** Vercel, Render, Digital Ocean, VPS, Railway
 - **Monitoring & Logging:** Structured logging, Observability patterns, Promethus & Grafana
 
 ---
