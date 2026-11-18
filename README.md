@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Adedamola Ijiwole</h1>
-<h3 align="center">Backend Engineer • Systems Architect • Product Thinker</h3>
+<h3 align="center">Senior Software Engineer • Systems Architect • Product Thinker</h3>
 
 <p align="center">
   I design and build scalable systems, high-performance APIs, and full-stack applications 
