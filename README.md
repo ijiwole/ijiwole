@@ -30,7 +30,7 @@ I design and build **scalable systems, high-performance APIs and cloud infrastru
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,go,cs" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,go,py,cs" /></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
