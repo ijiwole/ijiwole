@@ -8,7 +8,7 @@
 
 I design and build **scalable systems, high-performance APIs and cloud infrastructure** that solve real business problems.
 
-<a href="https://www.linkedin.com/in/adedamola-ijiwole-960a05199"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/adedamola-ijiwole"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:adedamolaijiwole@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://x.com/IjiwoleJosh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
