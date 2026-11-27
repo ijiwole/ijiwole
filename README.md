@@ -3,7 +3,7 @@
 # Hi, I'm Adedamola Ijiwole 👋
 
 <a href="https://github.com/ijiwole">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Systems+Architect;Distributed+Systems+%26+Cloud+Infrastructure;Founder+%40+VirtuCare+%F0%9F%9A%91" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Systems+Architect;Distributed+Systems+%26+Cloud+Infrastructure;Founder+%40+Qivela+%F0%9F%9A%91" alt="Typing SVG" />
 </a>
 
 I design and build **scalable systems, high-performance APIs and cloud infrastructure** that solve real business problems.
@@ -21,7 +21,7 @@ I design and build **scalable systems, high-performance APIs and cloud infrastru
 - 🧠 **4+ years** building backend systems, microservices and event-driven architecture
 - ☁️ I run production on **Kubernetes** with GitOps (**Helm + ArgoCD**) and infrastructure as code (**Terraform**)
 - 🔐 Focused on **security, performance and reliability**
-- 🎯 Product-minded engineer and founder of **VirtuCare** 🚑
+- 🎯 Product-minded engineer and founder of **Qivela** 🚑
 
 ---
 
